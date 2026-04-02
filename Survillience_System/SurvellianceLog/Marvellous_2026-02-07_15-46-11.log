@@ -1,0 +1,2079 @@
+--------------------------------------------------
+--------- Platform Surveillance System---------Log created at : Sat Feb  7 15:46:11 2026
+--------------------------------------------------
+
+-------------SYSTEM REPORT -------------------
+CPU usage : 3.4 %
+--------------------------------------------------
+RAM usage : 63.3 %
+--------------------------------------------------
+
+-------------- Disk Usage Report------------
+--------------------------------------------------
+C:\ -> 88.6 % used
+D:\ -> 6.4 % used
+--------------------------------------------------
+
+-------------- Network usage report ---------------
+--------------------------------------------------
+Sent : 1.49 MB 
+Recieved : 10.03 MB 
+--------------------------------------------------
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 140
+Name : 
+UserName : None
+Status : stopped
+Start time : 2025-11-07 16:51:00
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 208
+Name : Registry
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:00
+CPU % : 0.00
+Memory % : 0.39
+--------------------------------------------------
+PID : 640
+Name : smss.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:04
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 652
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-16 21:24:13
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 664
+Name : powershell.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:13:23
+CPU % : 0.00
+Memory % : 0.39
+--------------------------------------------------
+PID : 872
+Name : jhi_service.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 884
+Name : csrss.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:14
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 888
+Name : services.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 976
+Name : wininit.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 1012
+Name : WWAHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : stopped
+Start time : 2026-02-07 13:25:22
+CPU % : 0.00
+Memory % : 0.37
+--------------------------------------------------
+PID : 1040
+Name : LsaIso.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1056
+Name : lsass.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 1192
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.36
+--------------------------------------------------
+PID : 1220
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1280
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 1360
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 1416
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 1492
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 1564
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1572
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1580
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 1604
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:02
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 1660
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 1692
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 1700
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 1724
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:47
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 1884
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 1944
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1972
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 2008
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:15
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 2160
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 2232
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 2284
+Name : OfficeClickToRun.exe
+UserName : None
+Status : running
+Start time : 2026-02-02 23:58:46
+CPU % : 0.00
+Memory % : 0.31
+--------------------------------------------------
+PID : 2348
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2396
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 2472
+Name : ylintegrateservice.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:57
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 2592
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 2600
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:54
+CPU % : 0.00
+Memory % : 1.16
+--------------------------------------------------
+PID : 2604
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2660
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 2684
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 2692
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2708
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 2720
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 2808
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 2844
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:31
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 2876
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 2912
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2928
+Name : MemCompression
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 8.42
+--------------------------------------------------
+PID : 3000
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:32
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 3020
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 3052
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 3076
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 3248
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 3284
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:16
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 3324
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 3328
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 3356
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 3480
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 3532
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 3556
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 3616
+Name : spoolsv.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 3644
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 3756
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 3784
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 3968
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4008
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 4024
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:21
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 4048
+Name : ipfsvc.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 4072
+Name : ipf_uf.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4080
+Name : FoxitPDFReaderUpdateService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4116
+Name : esif_uf.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 4184
+Name : SafeExamBrowser.Service.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 4204
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4264
+Name : WsNativePushService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 4424
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 4440
+Name : RstMwService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 4464
+Name : SmartByteAnalyticsService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 4492
+Name : SmartByteNetworkService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 4512
+Name : sqlwriter.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 4580
+Name : tallygatewayserver.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 4644
+Name : WsToastNotification.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:24:25
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 4652
+Name : tnslsnr.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 4664
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 4676
+Name : omtsreco.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 4716
+Name : oracle.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:17
+CPU % : 0.00
+Memory % : 3.84
+--------------------------------------------------
+PID : 4804
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 4816
+Name : WavesSysSvc64.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 4844
+Name : WMIRegistrationService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 4852
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 4864
+Name : WavesAudioService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 5064
+Name : dllhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:45
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 5360
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 5628
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 5820
+Name : OneDrive.Sync.Service.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:42
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 6084
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 6308
+Name : FusionService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:28
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 6372
+Name : RAPSService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 6504
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 17:02:14
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 6640
+Name : RAPS.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.52
+--------------------------------------------------
+PID : 6656
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 6724
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:18
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 6772
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:51
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 7388
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:13
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 7772
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:55
+CPU % : 0.00
+Memory % : 0.56
+--------------------------------------------------
+PID : 7952
+Name : dllhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:45
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 8076
+Name : backgroundTaskHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : stopped
+Start time : 2026-02-07 14:54:33
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 8288
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:00
+CPU % : 0.00
+Memory % : 1.11
+--------------------------------------------------
+PID : 8772
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:22
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 8848
+Name : unsecapp.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:23
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 8888
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:23
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 9000
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:23
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 9360
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-18 13:11:49
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 9380
+Name : Dell.Connected.Service.Delivery.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:20
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 9424
+Name : sihost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 9472
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:33
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 9704
+Name : GameInputSvc.exe
+UserName : None
+Status : running
+Start time : 2025-11-10 13:30:14
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 9912
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:51:34
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 10124
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:47
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 10244
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:06
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 10320
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:06
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 10392
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 15:45:50
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 10608
+Name : DellSupportAssistRemedationService.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:21
+CPU % : 0.00
+Memory % : 0.36
+--------------------------------------------------
+PID : 10880
+Name : ApplicationFrameHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 13:25:21
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 11028
+Name : AnyDesk.exe
+UserName : None
+Status : running
+Start time : 2026-01-26 10:15:02
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 11064
+Name : python.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:03
+CPU % : 0.00
+Memory % : 0.22
+--------------------------------------------------
+PID : 11168
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 16:53:20
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 11488
+Name : PresentMonService.exe
+UserName : None
+Status : running
+Start time : 2026-01-02 21:35:13
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 12424
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 17:50:09
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 12544
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 17:02:17
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 12780
+Name : GameInputSvc.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:00:39
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 12844
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 17:50:08
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 13084
+Name : msdtc.exe
+UserName : None
+Status : running
+Start time : 2025-11-12 01:50:25
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 13460
+Name : mongod.exe
+UserName : None
+Status : running
+Start time : 2025-11-19 15:20:05
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 13832
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:59
+CPU % : 0.00
+Memory % : 0.55
+--------------------------------------------------
+PID : 13864
+Name : Dell.TechHub.exe
+UserName : None
+Status : running
+Start time : 2025-12-05 11:15:42
+CPU % : 0.00
+Memory % : 0.36
+--------------------------------------------------
+PID : 14532
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:58
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 14900
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 14928
+Name : gamingservicesnet.exe
+UserName : None
+Status : running
+Start time : 2025-12-21 19:33:09
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 15068
+Name : Dell.TechHub.DataManager.SubAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.79
+--------------------------------------------------
+PID : 15152
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:47
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 15812
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-07 17:50:13
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 16352
+Name : explorer.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 1.77
+--------------------------------------------------
+PID : 16444
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2026-01-02 21:35:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 16636
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:24:25
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 16700
+Name : WhatsApp.Root.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:50
+CPU % : 0.00
+Memory % : 1.16
+--------------------------------------------------
+PID : 17160
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 17328
+Name : ctfmon.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:46
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 17516
+Name : Yealink USB Connect.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:48
+CPU % : 0.00
+Memory % : 0.44
+--------------------------------------------------
+PID : 18028
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 15:41:53
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 18108
+Name : SearchIndexer.exe
+UserName : None
+Status : running
+Start time : 2026-02-04 10:59:59
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 18536
+Name : dllhost.exe
+UserName : None
+Status : running
+Start time : 2025-11-12 01:50:25
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 18676
+Name : SecurityHealthService.exe
+UserName : None
+Status : running
+Start time : 2025-11-10 13:47:38
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 18872
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-01-08 20:04:40
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 19076
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:13
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 19304
+Name : Dell.Update.SubAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-05 11:15:43
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 19564
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 20184
+Name : csrss.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:00:35
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 21024
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2026-02-04 11:27:48
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 21588
+Name : SupportAssistAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-05 11:15:41
+CPU % : 0.00
+Memory % : 1.00
+--------------------------------------------------
+PID : 22136
+Name : NisSrv.exe
+UserName : None
+Status : running
+Start time : 2025-12-21 19:55:59
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 22440
+Name : ipf_helper.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:40
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 22984
+Name : csrss.exe
+UserName : None
+Status : running
+Start time : 2026-01-26 18:19:20
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 23784
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 15:20:26
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 24052
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-14 17:34:26
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 24384
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:47
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 24680
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:47
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 24800
+Name : servicehost.exe
+UserName : None
+Status : running
+Start time : 2026-01-17 18:15:20
+CPU % : 0.00
+Memory % : 0.24
+--------------------------------------------------
+PID : 25064
+Name : LocationNotificationWindows.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:45
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 25480
+Name : OpenConsole.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:13:23
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 26676
+Name : PhoneExperienceHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 14:53:35
+CPU % : 0.00
+Memory % : 0.77
+--------------------------------------------------
+PID : 27372
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:56
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 27376
+Name : StartMenuExperienceHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:42
+CPU % : 0.00
+Memory % : 0.65
+--------------------------------------------------
+PID : 27564
+Name : procdump.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:56
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 27580
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-01-02 21:51:28
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 27948
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.46
+--------------------------------------------------
+PID : 28136
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 15:18:34
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 28216
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:53
+CPU % : 0.00
+Memory % : 0.83
+--------------------------------------------------
+PID : 28220
+Name : WUDFHost.exe
+UserName : None
+Status : running
+Start time : 2025-12-01 12:25:04
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 28228
+Name : Dell.TechHub.Diagnostics.SubAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.81
+--------------------------------------------------
+PID : 28264
+Name : Dell.TechHub.Instrumentation.SubAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 1.48
+--------------------------------------------------
+PID : 28860
+Name : WindowsTerminal.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:13:23
+CPU % : 0.00
+Memory % : 0.47
+--------------------------------------------------
+PID : 29204
+Name : Dell.CoreServices.Client.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.99
+--------------------------------------------------
+PID : 29272
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 29780
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:03
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 30284
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:13:41
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 30488
+Name : python.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:01
+CPU % : 0.00
+Memory % : 0.97
+--------------------------------------------------
+PID : 30772
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:43
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 30984
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-13 20:22:01
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 31088
+Name : powershell.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:01
+CPU % : 0.00
+Memory % : 0.33
+--------------------------------------------------
+PID : 31252
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-18 13:11:36
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 32036
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 33016
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:53
+CPU % : 0.00
+Memory % : 2.04
+--------------------------------------------------
+PID : 33312
+Name : Time.exe
+UserName : NEHASLAPTOP\nehaa
+Status : stopped
+Start time : 2026-02-07 13:26:20
+CPU % : 0.00
+Memory % : 0.52
+--------------------------------------------------
+PID : 33360
+Name : pet.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:58
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 33884
+Name : WSHelper.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 34080
+Name : winlogon.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:00:35
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 34352
+Name : Canva.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:49
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 34584
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:12
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 34636
+Name : IntelAudioService.exe
+UserName : None
+Status : running
+Start time : 2025-12-01 12:25:03
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 34660
+Name : dwm.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:00:36
+CPU % : 0.00
+Memory % : 0.66
+--------------------------------------------------
+PID : 35416
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 35768
+Name : Dell.TechHub.Analytics.SubAgent.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.77
+--------------------------------------------------
+PID : 36180
+Name : TextInputHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:47
+CPU % : 0.00
+Memory % : 0.42
+--------------------------------------------------
+PID : 37452
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-01-11 10:50:52
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 37560
+Name : SearchHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : stopped
+Start time : 2026-02-07 12:11:42
+CPU % : 0.00
+Memory % : 0.80
+--------------------------------------------------
+PID : 37708
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:12
+CPU % : 0.00
+Memory % : 0.73
+--------------------------------------------------
+PID : 38464
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-06 13:37:04
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 38524
+Name : MpDefenderCoreService.exe
+UserName : None
+Status : running
+Start time : 2025-12-21 19:55:32
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 38672
+Name : dasHost.exe
+UserName : None
+Status : running
+Start time : 2025-12-06 10:08:48
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 38692
+Name : procdump.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:57
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 38868
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:57
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 39000
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:52
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 39612
+Name : python.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 15:45:11
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 39652
+Name : ServiceShell.exe
+UserName : None
+Status : running
+Start time : 2025-12-05 11:16:18
+CPU % : 0.00
+Memory % : 1.08
+--------------------------------------------------
+PID : 39716
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 13:25:21
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 40136
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-12-05 11:15:43
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 40144
+Name : msedgewebview2.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:48
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 40448
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-12-04 14:32:42
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 40512
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-12-04 11:46:53
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 40536
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 15:42:34
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 40656
+Name : WidgetService.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:46
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 41084
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:01
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 41164
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:53
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 41480
+Name : wlanext.exe
+UserName : None
+Status : running
+Start time : 2026-02-04 11:27:48
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 41872
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-01-26 16:08:12
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 42200
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:55
+CPU % : 0.00
+Memory % : 0.63
+--------------------------------------------------
+PID : 42824
+Name : gamingservices.exe
+UserName : None
+Status : running
+Start time : 2025-12-21 19:33:09
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 42844
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:52
+CPU % : 0.00
+Memory % : 0.84
+--------------------------------------------------
+PID : 43224
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 43936
+Name : MoNotificationUx.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:20:52
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 43940
+Name : WavesSvc64.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:47
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 43984
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2025-11-12 17:46:03
+CPU % : 0.00
+Memory % : 0.27
+--------------------------------------------------
+PID : 44124
+Name : dllhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 14:53:33
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 44340
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:01
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 45440
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:43
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 46936
+Name : uihost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:40
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 47252
+Name : conhost.exe
+UserName : None
+Status : running
+Start time : 2025-12-15 21:41:19
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 47708
+Name : AggregatorHost.exe
+UserName : None
+Status : running
+Start time : 2025-11-12 17:46:04
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 48004
+Name : RuntimeBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 13:25:22
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 48188
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:42
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 49360
+Name : Canva.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:48
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 49812
+Name : IntelGraphicsSoftware.Service.exe
+UserName : None
+Status : running
+Start time : 2026-01-02 21:35:13
+CPU % : 0.00
+Memory % : 0.26
+--------------------------------------------------
+PID : 50112
+Name : conhost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:57
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 50388
+Name : taskhostw.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:41
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 50404
+Name : SystemSettingsBroker.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:12:13
+CPU % : 0.00
+Memory % : 0.21
+--------------------------------------------------
+PID : 50564
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:14:53
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 51060
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:00:36
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 52152
+Name : Dell.TechHub.Instrumentation.UserProcess.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:12:05
+CPU % : 0.00
+Memory % : 0.64
+--------------------------------------------------
+PID : 52184
+Name : MsMpEng.exe
+UserName : None
+Status : running
+Start time : 2025-12-21 19:55:32
+CPU % : 0.00
+Memory % : 1.39
+--------------------------------------------------
+PID : 52352
+Name : svchost.exe
+UserName : None
+Status : running
+Start time : 2026-02-07 12:11:36
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 52668
+Name : svchost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:43
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 53632
+Name : Widgets.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:11:43
+CPU % : 0.00
+Memory % : 0.30
+--------------------------------------------------
+PID : 53860
+Name : Code.exe
+UserName : NEHASLAPTOP\nehaa
+Status : running
+Start time : 2026-02-07 12:15:00
+CPU % : 0.00
+Memory % : 0.61
+--------------------------------------------------
+PID : 54120
+Name : ShellExperienceHost.exe
+UserName : NEHASLAPTOP\nehaa
+Status : stopped
+Start time : 2026-02-07 12:12:12
+CPU % : 0.00
+Memory % : 0.50
+--------------------------------------------------
+--------------------------------------------------
+----------------End of log file------------------------------------------------------------------
