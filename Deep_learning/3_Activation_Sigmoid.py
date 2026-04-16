@@ -1,6 +1,6 @@
 # ---------------------------------------------------------
 # Program : Artificial Neuron with Sigmoid Activation
-# Author  : Piyush Manohar Khairnar
+# Author  : Saurabh Ravindra Bhonsle
 # ---------------------------------------------------------
 
 import math
